@@ -116,7 +116,7 @@ Kennedy, R.E., Ohmann, J., Gregory, M., Roberts, H., Yang, Z., Bell, D.M., Kane,
 
 .. figure:: images/cc.png
 
-This work is licensed under a `Creative Commons Attribution BY 3.0 <https://creativecommons.org/licenses/by/4.0/>`_
+This work is licensed under a `Creative Commons Attribution BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_
 
 Copyright 2021, Spatial Informatics Group
 
